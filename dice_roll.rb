@@ -1,6 +1,6 @@
 
 
-def roll 
-  rand(1..6)# code goes here
+def roll(min, max)
+  rand(min..max)# code goes here
 
 end
