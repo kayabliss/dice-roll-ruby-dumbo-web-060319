@@ -1,6 +1,6 @@
 
 
-def roll(int)
+def roll()
  rand(1..6) 
 
 end
