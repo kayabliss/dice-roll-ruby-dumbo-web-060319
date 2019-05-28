@@ -1,7 +1,7 @@
 
 
 def roll(int)
-  rand(1..6) = int# code goes here
+ 1 + rand(int) 
 
 end
 roll
