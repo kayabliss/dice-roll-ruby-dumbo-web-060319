@@ -1,7 +1,7 @@
 
 
 def roll(dice)
- dice = rand(1..6) 
+ dice.rand(1..6) 
 
 end
 
